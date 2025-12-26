@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Mamma Mia",
+  "base_artist": "izna",
+  "createdAt": "2025-12-26T10:49:57.385963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/01_Mamma_Mia_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mamma Mia (Spanish Version)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/02_Mamma_Mia_(Spanish_Version)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh mamma mia",
+      "artist": "Gianni Morandi",
+      "has_synced": false,
+      "path": "select/03_Oh_mamma_mia_Gianni_Morandi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/04_Mamma_Mia_Abba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/05_Mamma_Mia_Abba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mamma Mia - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "artist": "Meryl Streep",
+      "has_synced": true,
+      "path": "select/06_Mamma_Mia_-_From_'Mamma_Mia!'_Original_Motion_Picture_Soundtrack_Meryl_Streep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/07_Mamma_Mia_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/08_Mamma_Mia_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "A*Teens",
+      "has_synced": true,
+      "path": "select/09_Mamma_Mia_A_Teens.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "A★Teens",
+      "has_synced": true,
+      "path": "select/10_Mamma_Mia_A★Teens.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/11_Mamma_Mia_Cher.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/12_Mamma_Mia_Cher.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/13_Mamma_Mia_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/14_Mamma_Mia_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kjære mamma (feat. Karpe Diem)",
+      "artist": "Apollo",
+      "has_synced": false,
+      "path": "select/15_Kjære_mamma_(feat._Karpe_Diem)_Apollo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kjære Mamma",
+      "artist": "Apollo feat. Karpe Diem",
+      "has_synced": false,
+      "path": "select/16_Kjære_Mamma_Apollo_feat._Karpe_Diem.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mamma",
+      "artist": "Ken Ring",
+      "has_synced": true,
+      "path": "select/17_Mamma_Ken_Ring.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mamma I'm Sorry",
+      "artist": "Lil Herb",
+      "has_synced": true,
+      "path": "select/18_Mamma_I'm_Sorry_Lil_Herb.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Mamma Said",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/19_My_Mamma_Said_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mamma Dammi La Benza",
+      "artist": "Gaznevada",
+      "has_synced": false,
+      "path": "select/20_Mamma_Dammi_La_Benza_Gaznevada.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Cathode Mamma",
+      "artist": "Krisma",
+      "has_synced": false,
+      "path": "select/21_Cathode_Mamma_Krisma.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "What You Gonna Do With That Gun Mamma?",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/22_What_You_Gonna_Do_With_That_Gun_Mamma_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Mamma Maremma",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/23_Mamma_Maremma_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ciao Mamma",
+      "artist": "Jovanotti",
+      "has_synced": true,
+      "path": "select/24_Ciao_Mamma_Jovanotti.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Fatti Mandare Dalla Mamma A Prendere Il Latte",
+      "artist": "Gianni Morandi",
+      "has_synced": true,
+      "path": "select/25_Fatti_Mandare_Dalla_Mamma_A_Prendere_Il_Latte_Gianni_Morandi.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Fatti Insegnare Dalla Mamma",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/26_Fatti_Insegnare_Dalla_Mamma_Alexia.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "La Mamma",
+      "artist": "Luca Carboni",
+      "has_synced": true,
+      "path": "select/27_La_Mamma_Luca_Carboni.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Mamma",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/28_Mamma_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mamma Mia",
+      "artist": "izna",
+      "has_synced": false,
+      "path": "select/pl_01_Mamma_Mia_izna.txt"
+    }
+  ]
+}
